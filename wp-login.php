@@ -2,7 +2,6 @@
 
 
 
-
 <?php
 /**
  * WordPress User Page
